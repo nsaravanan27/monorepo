@@ -1,6 +1,6 @@
 {
   "name": "@nsaravanan27/sample",
-  "version": null,
+  "version": 1.1.0,
   "description": "> TODO: description",
   "author": "nsaravanan27",
   "homepage": "https://github.com/nsaravanan27/monorepo#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/nsaravanan27/monorepo/issues"
   },
-  "gitHead": "ed171e8d775b6b3649df71e8b2ffbe35dee4fd30"
+  "gitHead": "f5c1307e39fd0fd3b6371c5d21590f67c0d75436"
 }
