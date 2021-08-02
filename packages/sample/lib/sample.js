@@ -4,5 +4,5 @@ module.exports = sample;
 
 function sample() {
     // TODO
-  console.log('hello world');
+  console.log('hello world test');
 }
