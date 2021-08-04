@@ -1,6 +1,6 @@
 {
   "name": "@nsaravanan27/testingsample",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "nsaravanan27",
   "homepage": "https://github.com/nsaravanan27/monorepo#readme",
@@ -13,7 +13,7 @@
   "files": [
     "lib"
   ],
- "publishConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "repository": {
