@@ -1,0 +1,26 @@
+{
+  "name": "sample2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "s6n <saravanan.2.n@nokia.com>",
+  "homepage": "https://github.com/nsaravanan27/monorepo#readme",
+  "license": "ISC",
+  "main": "lib/sample2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsaravanan27/monorepo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/nsaravanan27/monorepo/issues"
+  }
+}
