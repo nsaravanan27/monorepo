@@ -1,5 +1,5 @@
 {
-  "name": "sample2",
+  "name": "testingsample",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "s6n <saravanan.2.n@nokia.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/nsaravanan27/monorepo/issues"
-  }
+  },
+  "gitHead": "c6dacaf708a2c5b0bafad265f913909de1c1ccae"
 }
