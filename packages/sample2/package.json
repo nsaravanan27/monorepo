@@ -1,8 +1,8 @@
 {
   "name": "testingsample",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "> TODO: description",
-  "author": "s6n <saravanan.2.n@nokia.com>",
+  "author": "s6n",
   "homepage": "https://github.com/nsaravanan27/monorepo#readme",
   "license": "ISC",
   "main": "lib/sample2.js",
